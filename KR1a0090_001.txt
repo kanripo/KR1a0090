@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易文詮
-#+DATE: 2015-09-23 09:35:02
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:57:16.733070
+#+PROPERTY: ID KR1a0090
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1a0090_WYG_001-1a>¶
 欽定四庫全書¶
 　周易文詮卷一　　　　　　元　趙汸　撰¶
@@ -3026,4 +3028,3 @@
 　¶
 　¶
 　周易文詮卷一¶
-
